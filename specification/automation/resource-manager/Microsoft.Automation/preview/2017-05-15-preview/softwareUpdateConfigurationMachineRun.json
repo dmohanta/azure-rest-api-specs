@@ -136,7 +136,7 @@
             "in": "query",
             "required": false,
             "type": "string",
-            "description": "The filter to apply on the operation. You can use the following filters: 'properties/osType', 'properties/status', 'properties/startTime', and 'properties/softwareUpdateConfiguration/name'"
+            "description": "The filter to apply on the operation. You can use the following filters: 'properties/osType', 'properties/status', 'properties/startTime', 'properties/softwareUpdateConfiguration/name', 'properties/correlationId' and 'properties/targetComputer'"
           },
           {
             "name": "$skip",
